@@ -1,2 +1,2 @@
 # HTTP-Client-Server
-a simple HTTP Client-Server project using python that handles POST and GET requests using HTTP/1.0
+a simple HTTP Client-Server project using python that handles POST and GET requests using HTTP/1.0 that uses threading for the server to server multiple clients in parallel.Client can receiver from Server files as (PDF,IMAGES,TEXT,HTML) FILES through GET request & Server Can receive files from Client using POST request that the client issues to tell the server I am going to send you a file ! Enjoy testing :) ! waiting for recommendations!
